@@ -1,10 +1,4 @@
-#include <iostream>
-#include <string>
-#include <vector>
-
-typedef std::string String;
-
-#include "graph.h"
+#include "graphs.h"
 
 void testGraphADT();
 void printLine();
